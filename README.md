@@ -1,9 +1,11 @@
 📊 Customer Churn Prediction (Python Project)
+
 📌 Project Overview
 This project predicts customer churn for a telecom company using machine learning.
 Customer churn occurs when customers stop doing business with a company. Predicting churn helps businesses design better retention strategies and reduce revenue loss.
 
 🛠️ Tools & Libraries Used
+
 Python
 Pandas, NumPy (Data Cleaning & Processing)
 Matplotlib, Seaborn (Visualization)
