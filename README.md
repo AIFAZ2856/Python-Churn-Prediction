@@ -42,3 +42,7 @@ Add-on services (Tech Support, Online Security) reduce churn
 Accuracy: ~80%
 Recall (Churn class): Improved from 54% (Logistic Regression) → 72% (Random Forest with class balancing)
 Business Value: Helps the company identify at-risk customers and take proactive retention measures
+<img width="646" height="533" alt="image" src="https://github.com/user-attachments/assets/a5a911d2-d338-4624-9ae1-81279c4e7579" />
+<img width="533" height="446" alt="image" src="https://github.com/user-attachments/assets/a86c6ac8-a65a-4254-aa8b-bf9cef2697d9" />
+
+
